@@ -12,6 +12,6 @@
 </div>
 <br>
 <div  align="center" style="margin-bottom:100px">
-<img width=55% align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=marcusluccas&theme=radical&mode=weekly" />
-<img width=40% align="left" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=marcusluccas&show_icons=true&theme=radical&layout=compact" />
+<img width=55% align="left"  src="https://github-readme-streak-stats.herokuapp.com?user=marcus-viniciusdev&theme=radical&mode=weekly" />
+<img width=40% align="left" src="https://github-readme-stats-git-main-rafaelalexandrino.vercel.app/api/top-langs/?username=marcus-viniciusdev&show_icons=true&theme=radical&layout=compact" />
  </div
