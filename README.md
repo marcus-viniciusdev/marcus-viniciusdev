@@ -1,4 +1,4 @@
-<h1>Hello, my name is Marcus Vinicius, but you can call me Marcus Luccas</h1>
+<h1>Hello, my name is Marcus Vinicius</h1>
 <ul>
   <li>Technologies I use</li>
 </ul>
